@@ -1,16 +1,16 @@
 ## Welcome!
 
-*Alley Cat* is a simple 2D platformer game written entirely in the MIPS assembly language, where you navigate a cat through various obstacles in an alley.
+*Alley Cat* is a simple 2D platformer game written entirely in the MIPS Assembly language, where you navigate a cat through various obstacles in an alley.
 
 ## Running the files
 
-1. To run the game, download MIPS
+1. To run the game, download the MIPS MARS.
 
-2. Then, load the assembled file into the MIPS emulator.
+2. Then, load the assembled file into the MARS.
 
 3. Open the bitmap with a 512x512 display, and open the keyboard input tool.
 
-4. Click Run in MIPS.
+4. Click Run.
 
 5. Once the game starts, use the arrow keys to move the cat and avoid obstacles to progress through the alley.
 
@@ -31,7 +31,7 @@ Here are some screenshots of *Alley Cat* in action:
 
 *Level 1*
 
-![Level 1](https://github.com/user-attachments/assets/9b385125-e9ab-4898-856f-8f67e5a03385)
+![Level 1](https://github.com/user-attachments/assets/1e44af13-f63e-4cea-88c8-831f8d8dc23c)
 
 *Level 2*
 
@@ -50,7 +50,7 @@ Here are some screenshots of *Alley Cat* in action:
 ![Win Screen](https://github.com/user-attachments/assets/a2984c14-e7ed-4c59-a892-2d2061efbf98)
 
 ### Built with
-*Alley Cat* is built completely MIPS assembly.
+*Alley Cat* is built completely with MIPS Assembly.
 
 ### Continued development
 

@@ -16,6 +16,7 @@
 
 ## Table of contents 
 - [Overview](#overview)
+  - [Gameplay](#gameplay)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author) 
